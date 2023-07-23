@@ -1,0 +1,22 @@
+.chintu-image{
+    background-image: url(./images/feature-section-2BG.svg); 
+    object-fit: fill;
+}
+.image-1{
+    transition: 1s ease ;
+    box-shadow: 3px 3px 3px gray;
+}
+.image-1:hover{
+    transform: scale(1.1);
+}
+.bro{
+    background-image: url(./images/core-features-sectionBg.svg);
+    object-fit: fill;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+
+.pro-Bro{
+    background-image: url(./images/CTABg.svg);
+    width: 100%;
+}
